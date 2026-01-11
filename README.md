@@ -14,9 +14,7 @@ The system is deployed and accessible via the web, featuring a user-friendly int
 
 ## 🚀 Live Demo
 You can try the application directly here:
-👉 **[CLICK HERE TO VIEW DEMO](https://doc-layout-demo-xxx.streamlit.app)**
-
-*(Note: Replace the link above with your actual Streamlit Cloud link)*
+👉 **[CLICK HERE TO VIEW DEMO](https://document-image-detection.streamlit.app/)**
 
 ## ✨ Key Features
 * **Object Detection:** Detects 11 document layout classes: `Caption`, `Footnote`, `Formula`, `List-item`, `Page-footer`, `Page-header`, `Picture`, `Section-header`, `Table`, `Text`, `Title`.
@@ -33,8 +31,6 @@ You can try the application directly here:
 
 ## 📸 Screenshots
 
-*(Place a screenshot of your app here to impress recruiters. Example format below:)*
-
 ![App Screenshot](demo.png)
 
 > *Figure 1: The application interface detecting layout elements from a document.*
@@ -45,5 +41,5 @@ If you want to run this project on your local machine, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/zKdKaidO/DOD-YOLOv8.git](https://github.com/zKdKaidO/DOD-YOLOv8.git)
+git clone https://github.com/zKdKaidO/DOD-YOLOv8.git
 cd YourRepoName
