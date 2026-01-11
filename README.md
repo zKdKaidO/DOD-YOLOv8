@@ -45,5 +45,5 @@ If you want to run this project on your local machine, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/zKdKaidO/DOD2.git](https://github.com/zKdKaidO/DOD2.git)
+git clone [https://github.com/zKdKaidO/DOD-YOLOv8.git](https://github.com/zKdKaidO/DOD-YOLOv8.git)
 cd YourRepoName
