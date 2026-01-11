@@ -43,3 +43,8 @@ If you want to run this project on your local machine, follow these steps:
 ```bash
 git clone https://github.com/zKdKaidO/DOD-YOLOv8.git
 cd YourRepoName
+py -3.11 -m venv venv
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+.\venv\Scripts\activate
+pip install streamlit ultralytics pillow opencv-python-headless
+streamlit run app.py
